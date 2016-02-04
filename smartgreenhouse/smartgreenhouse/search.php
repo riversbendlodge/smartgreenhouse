@@ -44,10 +44,10 @@
                 <div class="container">
                     <div class="navbar-header">
                         <h1 class="navbar-brand">
-                            <a data-type='rd-navbar-brand' href="./">botanic</a>
+                            <a data-type='rd-navbar-brand' href="./">iSmartGreenhouse</a>
                         </h1>
 
-                        <p class="navbar-brand-slogan white text-uppercase">Enjoy the beauty of the green kingdom</p>
+                        <p class="navbar-brand-slogan white text-uppercase">Add a little bit of smarts to your gardening</p>
                     </div>
 
                     <div class="navbar-right">
@@ -166,7 +166,7 @@
 
 
                 <p class="copyright">
-                    <a href="#">Botanic </a> &#169; <span id="copyright-year"></span> &middot;
+                    <a href="#">iSmartGreenhouse </a> &#169; <span id="copyright-year"></span> &middot;
                     <a href="index-5.html">Privacy Policy</a>
 
                 </p>
