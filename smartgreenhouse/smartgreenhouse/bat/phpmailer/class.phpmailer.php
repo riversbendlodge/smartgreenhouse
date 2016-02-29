@@ -222,14 +222,14 @@ class PHPMailer
      * Hosts will be tried in order.
      * @type string
      */
-    public $Host = 'localhost';
+    public $Host = 'smtp.gmail.com';
 
     /**
      * The default SMTP server port.
      * @type integer
      * @TODO Why is this needed when the SMTP class takes care of it?
      */
-    public $Port = 25;
+    public $Port = 465;
 
     /**
      * The SMTP HELO of the message.
@@ -244,7 +244,7 @@ class PHPMailer
      * Options: "", "ssl" or "tls"
      * @type string
      */
-    public $SMTPSecure = '';
+    public $SMTPSecure = 'ssl';
 
     /**
      * Whether to use SMTP authentication.
@@ -253,19 +253,19 @@ class PHPMailer
      * @see PHPMailer::$Username
      * @see PHPMailer::$Password
      */
-    public $SMTPAuth = false;
+    public $SMTPAuth = true;
 
     /**
      * SMTP username.
      * @type string
      */
-    public $Username = '';
+    public $Username = 'riversbend@gmail.com';
 
     /**
      * SMTP password.
      * @type string
      */
-    public $Password = '';
+    public $Password = 'Go!Jimlou137';
 
     /**
      * SMTP auth type.
