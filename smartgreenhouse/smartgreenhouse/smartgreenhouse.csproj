@@ -448,9 +448,9 @@
     <Content Include="images\favicon.ico" />
     <Content Include="images\gmap_marker.png" />
     <Content Include="images\gmap_marker_active.png" />
+    <Content Include="images\HARRY.jpg" />
     <Content Include="images\ie8-panel\warning_bar_0000_us.jpg" />
     <Content Include="images\JEff.jpg" />
-    <Content Include="images\NIK CS.jpg" />
     <Content Include="images\page-1_img01.jpg" />
     <Content Include="images\page-1_img02.jpg" />
     <Content Include="images\page-1_img03.jpg" />
@@ -518,6 +518,7 @@
     <Content Include="images\parallax-bg-o.png" />
     <Content Include="images\parallax-bg.png" />
     <Content Include="images\parallax1.jpg" />
+    <Content Include="images\ROBIN.jpg" />
     <Content Include="images\select.png" />
     <Content Include="images\slide1.jpg" />
     <Content Include="images\slide2.jpg" />
